@@ -4,7 +4,7 @@ Created NotePad using Java Swing API .
 2. Have integrated Dictionary 
 3. Have plenty of JTattoo themes 
 4. Have dedicated font Pannel 
-
+5. Supports Hindi language
 # Screenshot
 
 ![screenshot 2016-12-05 23 43 11](https://cloud.githubusercontent.com/assets/22931190/20896722/1b4f954e-bb45-11e6-8d1c-3b9ed4b275da.png)
